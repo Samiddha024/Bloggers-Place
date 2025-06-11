@@ -62,14 +62,3 @@ npm install
 # Start the development server
 npm run dev
 ```
-
-
-
-This project is open source and free to use.
-
-```
-
----
-
-Let me know if you'd like to add **GitHub deploy link**, **demo GIF**, or **Appwrite setup steps** to the README!
-```
